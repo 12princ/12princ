@@ -2,7 +2,7 @@
 
 ###
 
-<h5 align="left">I’m Priyanshu Patel, a tech enthusiast and Software Intern at Sedulous Info Tec 🚀. With a Bachelor’s in IT 🎓 from Uka Tarsadia University, I’ve honed skills in full-stack development (MERN Stack) 🖥️, graphics design 🎨, video editing 🎥, and web development 💻.<br><br>Passionate about data analysis 📊 and AI 🤖, I’m eager to innovate and collaborate on exciting projects 🌟. Let’s connect and explore ideas together! 😊</h5>
+<h4 align="left">I’m Priyanshu Patel, a tech enthusiast and Software Intern at Sedulous Info Tec 🚀. With a Bachelor’s in IT 🎓 from Uka Tarsadia University, I’ve honed skills in full-stack development (MERN Stack) 🖥️, graphics design 🎨, video editing 🎥, and web development 💻.<br><br>Passionate about data analysis 📊 and AI 🤖, I’m eager to innovate and collaborate on exciting projects 🌟. Let’s connect and explore ideas together! 😊</h4>
 
 ###
 
@@ -101,7 +101,7 @@
 
 ###
 
-<h5 align="left">Graduating with a Bachelor’s in Information Technology 🎓 from Uka Tarsadia University, I’ve developed a versatile skill set that spans:</h5>
+<h4 align="center">Graduating with a Bachelor’s in Information Technology 🎓 from Uka Tarsadia University, I’ve developed a versatile skill set that spans:</h4>
 
 ###
 
