@@ -105,7 +105,9 @@
 
 ###
 
-<img align="left" height="304" src="https://gifdb.com/images/high/animated-man-computer-coding-nae6mec378lsg1i3.gif"  />
+<div align="center">
+  <img height="304" src="https://gifdb.com/images/high/animated-man-computer-coding-nae6mec378lsg1i3.gif"  />
+</div>
 
 ###
 
